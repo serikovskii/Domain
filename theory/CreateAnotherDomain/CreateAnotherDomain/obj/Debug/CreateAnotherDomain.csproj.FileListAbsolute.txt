@@ -1,0 +1,7 @@
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\bin\Debug\CreateAnotherDomain.exe.config
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\bin\Debug\CreateAnotherDomain.exe
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\bin\Debug\CreateAnotherDomain.pdb
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\obj\Debug\CreateAnotherDomain.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\obj\Debug\CreateAnotherDomain.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\obj\Debug\CreateAnotherDomain.exe
+c:\users\мукушева.corp\source\repos\CreateAnotherDomain\CreateAnotherDomain\obj\Debug\CreateAnotherDomain.pdb

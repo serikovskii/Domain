@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcSum", "CalcSum\CalcSum.csproj", "{4AAA2F6B-6BF7-42D2-86FC-A4ED2200855B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAA2F6B-6BF7-42D2-86FC-A4ED2200855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAA2F6B-6BF7-42D2-86FC-A4ED2200855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAA2F6B-6BF7-42D2-86FC-A4ED2200855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAA2F6B-6BF7-42D2-86FC-A4ED2200855B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785D7460-A765-4CBE-AEA8-5CFC53780487}
+	EndGlobalSection
+EndGlobal

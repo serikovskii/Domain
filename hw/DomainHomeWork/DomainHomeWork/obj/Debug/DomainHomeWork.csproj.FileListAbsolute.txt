@@ -1,0 +1,15 @@
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\App.g.cs
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork_MarkupCompile.cache
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\bin\Debug\DomainHomeWork.exe.config
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\bin\Debug\DomainHomeWork.exe
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\bin\Debug\DomainHomeWork.pdb
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\MainWindow.g.cs
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork_MarkupCompile.lref
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\MainWindow.baml
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.g.resources
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.Properties.Resources.resources
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.csproj.GenerateResource.cache
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.exe
+c:\users\мукушева.corp\source\repos\DomainHomeWork\DomainHomeWork\obj\Debug\DomainHomeWork.pdb

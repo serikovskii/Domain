@@ -1,0 +1,6 @@
+c:\users\мукушева.corp\source\repos\Download\Download\bin\Debug\Download.exe.config
+c:\users\мукушева.corp\source\repos\Download\Download\bin\Debug\Download.exe
+c:\users\мукушева.corp\source\repos\Download\Download\bin\Debug\Download.pdb
+c:\users\мукушева.corp\source\repos\Download\Download\obj\Debug\Download.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\Download\Download\obj\Debug\Download.exe
+c:\users\мукушева.corp\source\repos\Download\Download\obj\Debug\Download.pdb

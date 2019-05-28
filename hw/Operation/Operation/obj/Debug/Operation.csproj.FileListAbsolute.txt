@@ -1,0 +1,7 @@
+c:\users\мукушева.corp\source\repos\Operation\Operation\bin\Debug\Operation.exe.config
+c:\users\мукушева.corp\source\repos\Operation\Operation\bin\Debug\Operation.exe
+c:\users\мукушева.corp\source\repos\Operation\Operation\bin\Debug\Operation.pdb
+c:\users\мукушева.corp\source\repos\Operation\Operation\obj\Debug\Operation.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\Operation\Operation\obj\Debug\Operation.exe
+c:\users\мукушева.corp\source\repos\Operation\Operation\obj\Debug\Operation.pdb
+c:\users\мукушева.corp\source\repos\Operation\Operation\obj\Debug\Operation.csprojAssemblyReference.cache
